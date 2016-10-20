@@ -1,3 +1,8 @@
+# Unwanted Folders
+/[Dd]oc
+/[Bb]in
+/[Tt]mp
+
 # Compiled Object files
 *.slo
 *.lo
